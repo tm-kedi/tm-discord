@@ -1,6 +1,6 @@
 # Közösségi alapelveink
-Ez a Discord csoport azért jött létre, hogy legyen egy közös tér, ahol megoszthatjátok a gondolataitokat, valamint kommunikálhattok velünk és egymással. \
-Folyamatos, friss és naprakész információkat nyújtunk azoknak, akik szeretnének aktívan részt venni a csoport munkájában.
+Ez a Discord szerver azért jött létre, hogy legyen egy közös tér, ahol megoszthatjátok a gondolataitokat, valamint kommunikálhattok velünk és egymással. \
+Folyamatos, friss és naprakész információkat nyújtunk azoknak, akik szeretnének aktívan részt venni a mozgalom és a Talpra Magyarok közösség munkájában.
 
 Nyilvános közösségi szerver lévén az itt zajló beszélgetések nem feltétlenül tükrözik a Tisza Párt véleményét, illetve álláspontját egy adott témában.
 
@@ -78,13 +78,13 @@ https://discord.com/channels/1222985613519749220/1227024846161186827 – Ebben a
 - obszcenitás,
 - saját személyes adat megosztása.
 ____
-A csoport szabályainak nem megfelelően viselkedő tagok szankcionálandóak.\
-A szabályzat nem ismerete nem ad engedményt annak be nem tartására, illetve nem adhat felmentést a szankcionálás alól.\
+<small>A csoport szabályainak nem megfelelően viselkedő tagok szankcionálandóak.\
+A szabályzat nem ismerete nem ad engedményt annak be nem tartására, illetve nem adhat felmentést a szankcionálás alól.</small>
 
 # Üzenet a vezetőségtől
-Szeretnénk arra kérni, hogy legyetek aktívak a közösségben, osszátok meg gondolataitokat és cselekedjetek!
+Örömünkre szolgálna, ha minél többen aktívak lennétek a közösségben, osztanátok meg gondolataitokat, és cselekednétek!
 
-Discord csatornánkon folyamatosan megkapjátok a legújabb független hírportálok tartalmait a mozgalmunkról. Feltöltjük a közösségi média információit, azaz a legfrissebb Instagram, Youtube és Tiktok tartalmakat.
+Discord csatornáinkon folyamatosan megkapjátok a független hírportálok legújabb tartalmait a mozgalmunkról. Feltöltjük a közösségi média információit, azaz a legfrissebb Instagram, Youtube és Tiktok tartalmakat.
 
 Gyertek és csatlakozzatok hozzánk!
 

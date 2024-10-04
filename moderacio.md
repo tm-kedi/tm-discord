@@ -10,6 +10,8 @@ A csapat törekszik az objektivitásra a moderáció során. Ennek fényében a 
 Az egyértelmű kihágások szankcionálása mellett ritkán, de szükség lehet ún. egyéni bánásmódra. Bizonyíthatóan kétes tevékenység, szándékos közösségbomlasztó magatartás, illetve egyéb esetén a moderátori csapat szavazásos alapon dönthet szankció kiszabásáról. A moderátori csapat által többségi szavazatot elérő szankcionálási kezdeményezést a szankcionált személy számára a csapat minden esetben részletesen indokolni fogja.
 
 ## Moderátori szankcionálási kategóriák
+Az alábbi kategória lista súlyosság szerint rendezett.
+
 - Hang és írásos szobák nem a tematikának megfelelő használata
     - Nem a témának vagy a szobának a tematikájához kapcsolódó képek és/vagy GIF-ek (animációs kép) küldése
 - Felesleges @Moderátor használata
@@ -20,25 +22,22 @@ Az egyértelmű kihágások szankcionálása mellett ritkán, de szükség lehet
 - Hamis információk, álhírek szándékos terjesztése (kivéve az [erre kijelölt csatornán](https://discord.com/channels/1222985613519749220/1234994103125544980))
 - Virtuális kamera szoftver használata kamerakép megosztása esetén
 - Hangot megváltoztatására képes szoftver használata (Voice changer)
--------
 - Hangszoba szándékos zavarása:
     - Szándékos és kéretlen hang bejátszás (zavaróan hangos)
     - Szobába való ki-/belépkedés
     - Intenzíven zajló beszélgetésbe való közbevágás (ezeket minden ilyen esetben a hangszobához tartozó szöveges chat felületen szükséges megtenni)
         - Hangos beköszönés
-        - "Mi a téma?" jellegű bekérdezések
+        - "Mi a téma?", "Mi újság veled?" jellegű bekérdezések
 - Offenzív, másokat sértő üzenetek, felhasználók sértegetése, provokálása
 - A szerver értékével és/vagy értékrendjével szembenálló név és/vagy banner
 - Moderátori munka megzavarása, akadályozása
 - Bármiféle hirdetés (legyen ez saját vagy harmadik fél általi)
     - Bárminemű kereskedelemre való felhívás és annak reklámja/hirdetése
     - Más Discord szerver ajánlása felhasználók és/vagy Discord személyzet részére
--------
 - Szándékos közösségromboló magatartás
 - Bármely személy zaklatása a szerveren vagy privátban
 - Moderátor félrevezetése
 - Sokkoló, megbotránkoztató vagy másokat megijesztő audiovizuális tartalom megosztása
--------
 - Multiaccount/"Alt account" használata
 - Rasszista megnyilvánulás
 - Személyes adatokkal való visszaélés
