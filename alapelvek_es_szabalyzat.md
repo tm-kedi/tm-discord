@@ -10,37 +10,37 @@ Felhívjuk a figyelmeteket, hogy mindnyájan szerves részét képezitek a köz�
 Természetesen a fentiekben leírt közösségi immunitás nem (ahogy semmi más sem) adhat okot lincselésre, viszont-sértegetésre és/vagy -zaklatásra. Ennek megelőzése érdekében mindenkit nyomatékosan kérünk, hogy amennyiben lehet, a szerveren zajló beszélgetések **ne legyenek öncélúak vagy túlzottan személyesek**. Bár a szerveren tere van a szabad beszélgetésnek és új emberi kapcsolatok születésének, a TM csapat szeretné előtérbe helyezni a **közérdekű témákat**. Amennyiben úgy érzitek, hogy valaki viselkedésével szándékosan ez ellen tesz és ezáltal rombolja a közösség hangulatát, elsősorban kérlek jelezzétek egymásnak (nem mellőzve az empátia tanúsítását egymás iránt), amennyiben pedig a probléma nem megoldható helyileg egyéni módon, jelezzétek a moderátorok felé.
 
 # Csatornák
-[fontos-bejelentések](https://discord.com/channels/1222985613519749220/1222985613519749223) - Minden fontos közösségi bejelentést ebben a csatornában láthattok.
+https://discord.com/channels/1222985613519749220/1222985613519749223 - Minden fontos közösségi bejelentést ebben a csatornában láthattok.
 
-⁠⁠[bejelentések](https://discord.com/channels/1222985613519749220/1226479130191855646) - Minden fontos, a Discord szervert érintő bejelentést/updatet ezen a csatornán megtaláltok.
+⁠⁠https://discord.com/channels/1222985613519749220/1226479130191855646 - Minden fontos, a Discord szervert érintő bejelentést/updatet ezen a csatornán megtaláltok.
 
-[hírek](https://discord.com/channels/1222985613519749220/1225775159718182932) - Független hírportálok tartalmait a mozgalmunkról ebben a csatornában találjátok.
+https://discord.com/channels/1222985613519749220/1225775159718182932 - Független hírportálok tartalmait a mozgalmunkról ebben a csatornában találjátok.
 
-[közösségi-média](https://discord.com/channels/1222985613519749220/1225859548578054326) - Médiamegjelenéseinkről itt tájékozódhattok.
+https://discord.com/channels/1222985613519749220/1225859548578054326 - Médiamegjelenéseinkről itt tájékozódhattok.
 
-[politika-chat](https://discord.com/channels/1222985613519749220/1225849876735070302) - Minden, ami politika.
+https://discord.com/channels/1222985613519749220/1225849876735070302 - Minden, ami politika.
 
-⁠⁠[általános-chat](https://discord.com/channels/1222985613519749220/1226839992534437949) – Minden, ami nem politika.
+⁠⁠https://discord.com/channels/1222985613519749220/1226839992534437949 – Minden, ami nem politika.
 
-[⁠⁠kulturált-meme](https://discord.com/channels/1222985613519749220/1226452756571750502) - Minden, ami mém.
+https://discord.com/channels/1222985613519749220/1226452756571750502 - Minden, ami mém.
 
-[⁠⁠felajánlások](https://discord.com/channels/1222985613519749220/1226441471666688060) - Ha valamivel hozzá tudtok járulni az a Talpra Magyarok közösségének bővüléséhez, fejlődéséhez, azt kérjük itt jelezzétek!
+https://discord.com/channels/1222985613519749220/1226441471666688060 - Ha valamivel hozzá tudtok járulni az a Talpra Magyarok közösségének bővüléséhez, fejlődéséhez, azt kérjük itt jelezzétek!
 
-[⁠⁠vitázó](https://discord.com/channels/1222985613519749220/1227028055361323109) – Itt tudtok vitatkozni szakpolitikai témákban.
+https://discord.com/channels/1222985613519749220/1227028055361323109 – Itt tudtok vitatkozni szakpolitikai témákban.
 
-⁠⁠[média](https://discord.com/channels/1222985613519749220/1242175540127858761) - Képeiteket és videóitokat eseményeinkről ide tudjátok feltölteni.
+⁠⁠https://discord.com/channels/1222985613519749220/1242175540127858761 - Képeiteket és videóitokat eseményeinkről ide tudjátok feltölteni.
 
-[⁠⁠ötletek](https://discord.com/channels/1222985613519749220/1226444849880891402) - Minden, a Közösséggel és a Discord szerverrel kapcsolatos ötletetet ide várjuk.
+https://discord.com/channels/1222985613519749220/1226444849880891402 - Minden, a Közösséggel és a Discord szerverrel kapcsolatos ötletetet ide várjuk.
 
-[⁠helyi-chatek](https://discord.com/channels/1222985613519749220/1242188634929627227) - Beszélgess emberekkel a környékedről!
+https://discord.com/channels/1222985613519749220/1242188634929627227 - Beszélgess emberekkel a környékedről!
 
-[⁠valótlan-hírek](https://discord.com/channels/1222985613519749220/1234994103125544980) - Itt tudjátok megosztani a valótlanságokat állító híreket, ezzel is elősegítve a tisztességes média létrejöttét!
+https://discord.com/channels/1222985613519749220/1234994103125544980 - Itt tudjátok megosztani a valótlanságokat állító híreket, ezzel is elősegítve a tisztességes média létrejöttét!
 
-[⁠⁠Szabad Hang](https://discord.com/channels/1222985613519749220/1222985618024304652) - Ezen a csatornán tudtok beszélni szóban egymással.
+https://discord.com/channels/1222985613519749220/1222985618024304652 - Ezen a csatornán tudtok beszélni szóban egymással.
 
-[Szabad Színpad](https://discord.com/channels/1222985613519749220/1222985618024304652) - A Szabad Hanghoz hasonló, színpad típusú hangcsatorna, ahol fokozott moderáció és egy opcionálisan előre meghatározott téma mentén a közösség tagjai szabadon beszélgethetnek.
+https://discord.com/channels/1222985613519749220/1222985618024304652 - A Szabad Hanghoz hasonló, színpad típusú hangcsatorna, ahol fokozott moderáció és egy opcionálisan előre meghatározott téma mentén a közösség tagjai szabadon beszélgethetnek.
 
-[⁠⁠Auditorium](https://discord.com/channels/1222985613519749220/1227024846161186827) – Ebben a szobában lesznek megtartva a különböző nagy volumenű viták, beszélgetések.
+https://discord.com/channels/1222985613519749220/1227024846161186827 – Ebben a szobában lesznek megtartva a különböző nagy volumenű viták, beszélgetések.
 
 # Rangok
 @Szervergyorsító – Szerverünk megbecsült támogatói. Köszönjük!\
