@@ -14,8 +14,6 @@ Természetesen a fentiekben leírt közösségi immunitás nem (ahogy semmi más
 
 ⁠⁠[bejelentések](https://discord.com/channels/1222985613519749220/1226479130191855646) - Minden fontos, a Discord szervert érintő bejelentést/updatet ezen a csatornán megtaláltok.
 
-~~⁠⁠No Access - Minden fontos megjelenést ebben a csatornában láthattok.~~
-
 [hírek](https://discord.com/channels/1222985613519749220/1225775159718182932) - Független hírportálok tartalmait a mozgalmunkról ebben a csatornában találjátok.
 
 [közösségi-média](https://discord.com/channels/1222985613519749220/1225859548578054326) - Médiamegjelenéseinkről itt tájékozódhattok.
@@ -42,13 +40,10 @@ Természetesen a fentiekben leírt közösségi immunitás nem (ahogy semmi más
 
 [Szabad Színpad](https://discord.com/channels/1222985613519749220/1222985618024304652) - A Szabad Hanghoz hasonló, színpad típusú hangcsatorna, ahol fokozott moderáció és egy opcionálisan előre meghatározott téma mentén a közösség tagjai szabadon beszélgethetnek.
 
-[⁠⁠Auditorium](https://discord.com/channels/1222985613519749220/1227024846161186827) – Ebben a szobában lesznek meg~~g~~tartva a különböző nagy volumenű viták, beszélgetések.
-
-⁠~~⁠No Access – Ha szeretnél Discord csapattag lenni, itt a helyed!~~
+[⁠⁠Auditorium](https://discord.com/channels/1222985613519749220/1227024846161186827) – Ebben a szobában lesznek megtartva a különböző nagy volumenű viták, beszélgetések.
 
 # Rangok
 @Szervergyorsító – Szerverünk megbecsült támogatói. Köszönjük!\
-~~@unknown-role – Aktivistáink. Szórólapozás, pultozás… köszönjük munkátokat!~~ (nem létező role már)
 
 @Facebook Csapattag – Facebook közösségünk moderátorai. Facebookkal kapcsolatos problémákkal őket keresd.\
 @Discord Csapattag - Discord közösségünk csapata. Discorddal kapcsolatos problémákkal őket keresd.
@@ -105,6 +100,3 @@ Gyertek és csatlakozzatok hozzánk!
 [Magyar Péter Facebook oldala](https://discord.com/channels/1222985613519749220/1222985613519749222/1246538014360866887)\
 [Magyar Péter TikTok oldala](https://discord.com/channels/1222985613519749220/1222985613519749222/1246538014360866887)\
 [Magyar Péter Instagram oldala](https://www.instagram.com/magyar_peter_official_the_man/)
-
-~~Talpra, Magyarok Youtube~~ (inaktív)\
-~~Instagram~~ (szar link)\
