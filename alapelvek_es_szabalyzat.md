@@ -91,12 +91,12 @@ Gyertek és csatlakozzatok hozzánk!
 **NE FÉLJETEK! 💪 CSELEKEDJETEK! 🎯 TALPRA MAGYAROK! 🇭🇺**
 
 ## Linkek
-[Weboldal](https://discord.com/channels/1222985613519749220/1222985613519749222/1246538014360866887)\
+[Weboldal](https://talpramagyarok.hu/)\
 [Talpra Magyarok Facebook oldal](https://www.facebook.com/groups/3697382177193551)
 
-[Önkéntes aktivista jelentkezés](https://discord.com/channels/1222985613519749220/1222985613519749222/1246538014360866887)
+[Önkéntes aktivista jelentkezés](https://m.talpramagyarok.hu/aktivista-onkentes)
 
-[Magyar Péter YouTube csatornája](https://discord.com/channels/1222985613519749220/1222985613519749222/1246538014360866887)\
-[Magyar Péter Facebook oldala](https://discord.com/channels/1222985613519749220/1222985613519749222/1246538014360866887)\
-[Magyar Péter TikTok oldala](https://discord.com/channels/1222985613519749220/1222985613519749222/1246538014360866887)\
+[Magyar Péter YouTube csatornája](https://www.youtube.com/@magyarpeterofficial)\
+[Magyar Péter Facebook oldala](https://www.facebook.com/peter.magyar.102)\
+[Magyar Péter TikTok oldala](https://www.tiktok.com/@magyarpeterofficial)\
 [Magyar Péter Instagram oldala](https://www.instagram.com/magyar_peter_official_the_man/)
