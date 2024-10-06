@@ -43,7 +43,7 @@ https://discord.com/channels/1222985613519749220/1222985618024304652 - A Szabad 
 https://discord.com/channels/1222985613519749220/1227024846161186827 – Ebben a szobában lesznek megtartva a különböző nagy volumenű viták, beszélgetések.
 
 # Rangok
-@Szervergyorsító – Szerverünk megbecsült támogatói. Köszönjük!\
+@Szervergyorsító – Szerverünk megbecsült támogatói. Köszönjük!
 
 @Facebook Csapattag – Facebook közösségünk moderátorai. Facebookkal kapcsolatos problémákkal őket keresd.\
 @Discord Csapattag - Discord közösségünk csapata. Discorddal kapcsolatos problémákkal őket keresd.
